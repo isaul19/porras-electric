@@ -1,0 +1,19 @@
+---
+interface Props {
+  title: string;
+  description: string;
+  src: string;
+}
+
+const { title, description, src } = Astro.props;
+---
+
+<article
+  class="max-w-sm bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700 hover:scale-[1.03] transition-transform"
+>
+  <img class="rounded-t-lg w-full h-56" src={src} alt="image-service" />
+  <div class="p-5">
+    <h5 class="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">{title}</h5>
+    <p class="mb-3 font-normal text-gray-700 dark:text-gray-400">{description}</p>
+  </div>
+</article>

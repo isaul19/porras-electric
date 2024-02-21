@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Pozo a tierra",
+    "description": "Ofrecemos servicios de instalación y mantenimiento de sistemas de puesta a tierra, garantizando la seguridad de tus equipos eléctricos y protegiendo contra descargas eléctricas.",
+    "src": "/images/services/pozo.jpg"
+  },
+  {
+    "title": "Cableado eléctrico",
+    "description": "Realizamos instalaciones de cableado eléctrico eficientes y seguras en tu hogar o negocio en Lima. Nos aseguramos de cumplir con las normativas y estándares de seguridad eléctrica para garantizar un funcionamiento óptimo.",
+    "src": "/images/services/cables.jpg"
+  },
+  {
+    "title": "Tableros eléctricos",
+    "description": "Realizamos instalaciones, reparaciones y mantenimiento de tableros eléctricos, asegurando un suministro eléctrico estable y seguro en tu propiedad.",
+    "src": "/images/services/tablero.jpg"
+  },
+  {
+    "title": "Detección de fugas eléctricas",
+    "description": "Detectamos y resolvemos fugas eléctricas en tu sistema, evitando posibles cortocircuitos y garantizando la seguridad de tu hogar o negocio en Lima.",
+    "src": "/images/services/deteccion.jpg"
+  },
+  {
+    "title": "Cortocircuito y tablero eléctrico",
+    "description": "Nos encargamos de identificar y reparar cortocircuitos en tu tablero eléctrico, asegurando un funcionamiento seguro y eficiente de tu sistema eléctrico en Lima.",
+    "src": "/images/services/caja.jpg"
+  },
+  {
+    "title": "Instalaciones eléctricas del hogar",
+    "description": "Desde la planificación hasta la ejecución, nos encargamos de todas las etapas de las instalaciones eléctricas residenciales, asegurando un trabajo de calidad y cumpliendo con tus necesidades específicas.",
+    "src": "/images/services/casero.jpg"
+  },
+  {
+    "title": "Cableado y colocación de luminarias",
+    "description": "Nos encargamos de la instalación y colocación de luminarias en tu hogar o negocio en Lima, asegurando una iluminación adecuada y eficiente.",
+    "src": "/images/services/luminaria.jpg"
+  },
+  {
+    "title": "Instalaciones eléctricas residenciales",
+    "description": "Realizamos instalaciones eléctricas completas para viviendas, cumpliendo con los estándares de seguridad y ofreciendo soluciones personalizadas según tus necesidades.",
+    "src": "/images/services/residencial.jpg"
+  },
+  {
+    "title": "Instalación de tomacorrientes",
+    "description": "Nos comprometemos a proporcionarte una solución segura y confiable para tu propiedad. Puedes confiar en nosotros para llevar a cabo esta tarea importante de manera eficiente.",
+    "src": "/images/services/tomacorrientes.jpg"
+  }
+]
